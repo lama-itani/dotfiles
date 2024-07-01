@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lama.itani@hotmail.com
+	name = Lama Itani
